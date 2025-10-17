@@ -1,0 +1,1 @@
+# Mentoring-Kopma-B-Lt-1-Syp-kiri-
