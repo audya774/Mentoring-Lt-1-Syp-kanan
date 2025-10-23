@@ -51,4 +51,4 @@ const GuruMapel = () => {
     );
 };
 
-export default GuruMapel;
+export default DaftarAnggota;
