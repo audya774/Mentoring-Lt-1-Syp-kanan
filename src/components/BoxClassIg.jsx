@@ -1,7 +1,7 @@
 const BoxClassIg = () => {
 	return (
 		<div id="BoxClassIg">
-		<a href="https://www.instagram.com/gen.twelveone?igsh=id">
+		<a href="https://www.instagram.com/kopma.blt1?igsh=c2Q0bWo3Y253MnNv=id">
 				<div className="flex justify-between relative ">
 					<img src="/Instagram.svg" alt="" className="w-auto h-10" />
 					<img src="/next.png" alt="" className="h-4 w-4" />
