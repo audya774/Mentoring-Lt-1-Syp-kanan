@@ -12,7 +12,7 @@ Teknologi yang digunakan diantaranya:
 Apa yang dapat Anda temukan di web ini:
 - Text Anonim: Bagian ini memungkinkan pengguna untuk berinteraksi dengan informasi kelompok tanpa harus mengungkapkan identitas mereka.
 - Gallery: Menampilkan gambar-gambar menarik yang terkait dengan kelompok kami.
-- Structure And Schedule: Memberikan informasi rinci tentang struktur kelokpok dan jadwal yang tersedia.
+- Structure And Schedule: Memberikan informasi rinci tentang struktur kelompok dan jadwal yang tersedia.
 
 Project ini di buat oleh :
 - Khairul
