@@ -10,7 +10,7 @@ Teknologi yang digunakan diantaranya:
 - AOS: Animasi yang menarik untuk meningkatkan tampilan dan nuansa situs.
 
 Apa yang dapat Anda temukan di web ini:
-- Text Anonim: Bagian ini memungkinkan pengguna untuk berinteraksi dengan informasi kelas tanpa harus mengungkapkan identitas mereka.
+- Text Anonim: Bagian ini memungkinkan pengguna untuk berinteraksi dengan informasi kelompok tanpa harus mengungkapkan identitas mereka.
 - Gallery: Menampilkan gambar-gambar menarik yang terkait dengan kelas kami.
 - Structure And Schedule: Memberikan informasi rinci tentang struktur kelas dan jadwal yang tersedia.
 
