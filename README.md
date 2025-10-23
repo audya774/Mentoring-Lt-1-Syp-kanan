@@ -1,5 +1,5 @@
 # Web Mentoring
-Web Kelas adalah platform yang bertujuan untuk menyediakan informasi tentang kelas kami. 
+Web Mentoring adalah platform yang bertujuan untuk menyediakan informasi tentang kelompok kami. 
 
 Teknologi yang digunakan diantaranya: 
 - React JS: Membangun antarmuka pengguna yang responsif dan interaktif.
