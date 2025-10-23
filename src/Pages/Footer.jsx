@@ -8,7 +8,7 @@ const Footer = () => {
 					<div class="mb-6 md:mb-0">
 						<a href="#" class="flex items-center">
 							<img
-								src="/LogoMIPA1.png"
+								src="/LogoKOBLASKA.png"
 								alt=""
 								className="h-[9.5rem] w-[9.5rem] right-2 relative rounded-full brightness-200"
 							/>
@@ -31,7 +31,7 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://www.instagram.com/gen.twelveone?igsh=id" class="hover:underline ">
+									<a href="https://www.instagram.com/kopma.blt1?igsh=id" class="hover:underline ">
 										Instagram
 									</a>
 								</li>
@@ -56,7 +56,7 @@ const Footer = () => {
 				<div class="sm:flex sm:items-center sm:justify-between">
 					<div class="flex mt-4 justify-center sm:mt-0">
 						<p className="text-[0.7rem] text-white opacity-70">
-							© {new Date().getFullYear()} Kelas XII IPA 1 | Di Kelola Oleh Siswa MIPA 1
+							© {new Date().getFullYear()} Mentoring KOBLASKA | Di Kelola Oleh Kelompok KOPMA B Lantai 1 Sayap Kanan
 						</p>
 					</div>
 				</div>
