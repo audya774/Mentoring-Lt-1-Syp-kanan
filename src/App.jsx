@@ -31,7 +31,7 @@ function App() {
 				data-aos-duration="1200">
 				<Chat />
 			</div>
-			<GuruMapel />
+			<Daftaranggota/>
 			<Footer />
 		</>
 	)
