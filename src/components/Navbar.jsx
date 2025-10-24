@@ -51,8 +51,8 @@ const Navbar = () => {
 							</a>
 						</li>
 						<li className="mb-4">
-							<a href="#GuruMapel" className="text-white opacity-80 text-lg font-bold">
-								Guru Mapel
+							<a href="#DaftarAnggota" className="text-white opacity-80 text-lg font-bold">
+								Daftar Anggota 
 							</a>
 						</li>
 					</ul>
@@ -81,8 +81,8 @@ const Navbar = () => {
 						</a>
 					</li>
 					<li className="mb-4">
-						<a href="#GuruMapel" className="text-white opacity-80 text-[1rem] font-semibold">
-							Guru Mapel
+						<a href="#Daftar Anggota" className="text-white opacity-80 text-[1rem] font-semibold">
+							Daftar Anggota 
 						</a>
 					</li>
 				</ul>
