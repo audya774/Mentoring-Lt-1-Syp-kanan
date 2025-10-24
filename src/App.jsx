@@ -9,6 +9,8 @@ import AOS from "aos"
 import "aos/dist/aos.css"
 
 function App() {
+	console.log("App is rendering...") // 🔹 Tambahkan di sini
+
 	useEffect(() => {
 		AOS.init()
 		AOS.refresh()
@@ -17,12 +19,10 @@ function App() {
 	return (
 		<>
 			<Home />
-
 			<Carousel />
 			<FullWidthTabs />
 
 			<div id="Mesh1"></div>
-
 
 			<div
 				className="lg:mx-[12%] lg:mt-[-5rem] lg:mb-20 hidden lg:block"
@@ -31,7 +31,8 @@ function App() {
 				data-aos-duration="1200">
 				<Chat />
 			</div>
-			<Daftaranggota/>
+
+			<Daftaranggota />
 			<Footer />
 		</>
 	)
