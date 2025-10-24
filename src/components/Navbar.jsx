@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   useEffect(() => {
-    console.log("✅ Navbar sudah di-render ke DOM"); 
+    console.log("Navbar sudah di-render ke DOM"); 
   }, []);
 
   return (
