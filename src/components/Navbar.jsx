@@ -1,17 +1,17 @@
 import React, { useState, useEffect } from "react"
 
 const Navbar = () => {
-  console.log("🔹 Navbar function dipanggil"); // 1️⃣ — memastikan fungsi dieksekusi
+  console.log("🔹 Navbar function dipanggil"); 
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const toggleMenu = () => {
-    console.log("🔸 Menu toggle:", !isMenuOpen); // 2️⃣ — tahu apakah toggle bekerja
+    console.log("🔸 Menu toggle:", !isMenuOpen); 
     setIsMenuOpen(!isMenuOpen);
   };
 
   useEffect(() => {
-    console.log("✅ Navbar sudah di-render ke DOM"); // 3️⃣ — memastikan render selesai
+    console.log("✅ Navbar sudah di-render ke DOM"); 
   }, []);
 
   return (
