@@ -3,7 +3,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Navbar from "../components/Navbar";
 
-const guruList = [
+const anggotaList = [
     { nama: "Dewi Ariyani, S.Pd", mapel: "Bahasa Indonesia" },
     { nama: "Rasimah, S.Pd", mapel: "Kimia" },
     { nama: "Narmuli, S.Pd", mapel: "Matematika (Wajib)" },
@@ -20,30 +20,30 @@ const guruList = [
     { nama: "Asma Aini, S.Pd", mapel: "Sejarah (Wajib)" }
 ];
 
-const GuruMapel = () => {
+const DaftarAnggota= () => {
     useEffect(() => {
         AOS.init();
     }, []);
 
     return (
-        <div id="GuruMapel" className="flex flex-col items-center mb-36">
-            {/* "Guru Mapel" Title */}
+        <div id="DaftarAnggota" className="flex flex-col items-center mb-36">
+            {/* "Daftar Anggota" Title */}
             <h2 
                 className="text-white mb-3 mx-[10%] self-start lg:mb-12 text-[1.5rem] font-medium font-[Poppins]"
             >
-                Guru Mapel
+                Daftar Anggota 
             </h2>
 
-            {/* Teachers List */}
-            {guruList.map((guru, index) => (
+            {/* Member List */}
+            {anggotaList.map((Anggota, index) => (
                 <div key={index} className="w-72">
                     <div 
                         className="border-b border-white text-white flex flex-col py-1 px-3"
                         data-aos="fade-up" 
                         data-aos-duration={600 + index * 100}
                     >
-                        <span className="text-base font-medium">{guru.nama}</span>
-                        <span className="text-sm text-right">{guru.mapel}</span>
+                        <span className="text-base font-medium">{anngota.nama}</span>
+                        <span className="text-sm text-right">{anggota.jurusan}</span>
                     </div>
                 </div>
             ))}
