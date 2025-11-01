@@ -4,20 +4,20 @@ import "aos/dist/aos.css";
 import Navbar from "../components/Navbar";
 
 const anggotaList = [
-    { nama: "Dewi Ariyani, S.Pd", mapel: "Bahasa Indonesia" },
-    { nama: "Rasimah, S.Pd", mapel: "Kimia" },
-    { nama: "Narmuli, S.Pd", mapel: "Matematika (Wajib)" },
-    { nama: "Hj. Samsidar, S.Pd", mapel: "PPKN" },
-    { nama: "Jaswadi, S.Si", mapel: "Prakarya" },
-    { nama: "Heria Minarti, S.Pd", mapel: "Matematika (Peminatan)" },
-    { nama: "Ariesmen Rahmat Y, S.Pd", mapel: "Ekonomi" },
-    { nama: "Devi Hariyanti, S.Pd", mapel: "Bahasa Inggris" },
-    { nama: "Irfandi Rahmat, S.Pd", mapel: "Fisika" },
-    { nama: "Bakrijas, S.Si", mapel: "Biologi" },
-    { nama: "M. Syuhada Fahmi, S.Pd", mapel: "PJOK" },
-    { nama: "Cut Lismayanti, S.Pd.I", mapel: "PAI" },
-    { nama: "Aniar, S.Pd", mapel: "Seni Budaya" },
-    { nama: "Asma Aini, S.Pd", mapel: "Sejarah (Wajib)" }
+    { nama: "Dewi Ariyani, S.Pd", jurusan: "Bahasa Indonesia" },
+    { nama: "Rasimah, S.Pd", jurusan: "Kimia" },
+    { nama: "Narmuli, S.Pd", jurusan: "Matematika (Wajib)" },
+    { nama: "Hj. Samsidar, S.Pd", jurusan: "PPKN" },
+    { nama: "Jaswadi, S.Si", jurusan: "Prakarya" },
+    { nama: "Heria Minarti, S.Pd", jurusan: "Matematika (Peminatan)" },
+    { nama: "Ariesmen Rahmat Y, S.Pd", jurusan: "Ekonomi" },
+    { nama: "Devi Hariyanti, S.Pd", jurusan: "Bahasa Inggris" },
+    { nama: "Irfandi Rahmat, S.Pd", jurusan: "Fisika" },
+    { nama: "Bakrijas, S.Si", jurusan: "Biologi" },
+    { nama: "M. Syuhada Fahmi, S.Pd", jurusan: "PJOK" },
+    { nama: "Cut Lismayanti, S.Pd.I", jurusan: "PAI" },
+    { nama: "Aniar, S.Pd", jurusan: "Seni Budaya" },
+    { nama: "Asma Aini, S.Pd", jurusan: "Sejarah (Wajib)" }
 ];
 
 const DaftarAnggota= () => {
