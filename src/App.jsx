@@ -32,7 +32,7 @@ function App() {
 				<Chat />
 			</div>
 
-			<Daftaranggota />
+			<DaftarAnggota />
 			<Footer />
 		</>
 	)
